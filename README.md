@@ -110,6 +110,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [1759-count-number-of-homogenous-substrings](https://github.com/jayesh8115/leetcode-solutions/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jayesh8115/leetcode-solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/jayesh8115/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jayesh8115/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
 |  |
 | ------- |
@@ -123,6 +124,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [1248-count-number-of-nice-subarrays](https://github.com/jayesh8115/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jayesh8115/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jayesh8115/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jayesh8115/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Math
 |  |
 | ------- |
