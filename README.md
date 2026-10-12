@@ -53,6 +53,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0704-binary-search](https://github.com/jayesh8115/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/jayesh8115/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/jayesh8115/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0885-spiral-matrix-iii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -188,6 +189,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0054-spiral-matrix](https://github.com/jayesh8115/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/jayesh8115/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0885-spiral-matrix-iii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -216,6 +218,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | ------- |
 | [0054-spiral-matrix](https://github.com/jayesh8115/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0885-spiral-matrix-iii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 ## Quicksort
 |  |
 | ------- |
