@@ -39,6 +39,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayesh8115/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/jayesh8115/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0073-set-matrix-zeroes](https://github.com/jayesh8115/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/jayesh8115/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/jayesh8115/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -99,6 +101,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0088-merge-sorted-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/jayesh8115/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/jayesh8115/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Stack
 |  |
 | ------- |
@@ -215,8 +218,10 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jayesh8115/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jayesh8115/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
