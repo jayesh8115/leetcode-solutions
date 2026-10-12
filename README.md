@@ -89,6 +89,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0992-subarrays-with-k-different-integers](https://github.com/jayesh8115/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jayesh8115/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jayesh8115/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/jayesh8115/leetcode-solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -103,6 +104,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [1446-consecutive-characters](https://github.com/jayesh8115/leetcode-solutions/tree/master/1446-consecutive-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/jayesh8115/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/jayesh8115/leetcode-solutions/tree/master/1759-count-number-of-homogenous-substrings) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/jayesh8115/leetcode-solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
