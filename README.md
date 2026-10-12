@@ -77,6 +77,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [2594-minimum-time-to-repair-cars](https://github.com/jayesh8115/leetcode-solutions/tree/master/2594-minimum-time-to-repair-cars) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/jayesh8115/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jayesh8115/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/jayesh8115/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jayesh8115/leetcode-solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2404-most-frequent-even-element](https://github.com/jayesh8115/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jayesh8115/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/jayesh8115/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -155,6 +157,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [1759-count-number-of-homogenous-substrings](https://github.com/jayesh8115/leetcode-solutions/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/jayesh8115/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -262,6 +265,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0073-set-matrix-zeroes](https://github.com/jayesh8115/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0885-spiral-matrix-iii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jayesh8115/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/jayesh8115/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
