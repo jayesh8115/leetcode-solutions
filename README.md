@@ -37,6 +37,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/jayesh8115/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayesh8115/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/jayesh8115/leetcode-solutions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0013-roman-to-integer](https://github.com/jayesh8115/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/jayesh8115/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/jayesh8115/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/jayesh8115/leetcode-solutions/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -93,6 +95,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0075-sort-colors](https://github.com/jayesh8115/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/jayesh8115/leetcode-solutions/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/jayesh8115/leetcode-solutions/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -148,6 +151,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jayesh8115/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/jayesh8115/leetcode-solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -204,4 +208,12 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/jayesh8115/leetcode-solutions/tree/master/0164-maximum-gap) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jayesh8115/leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jayesh8115/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
