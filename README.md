@@ -64,6 +64,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [1248-count-number-of-nice-subarrays](https://github.com/jayesh8115/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/jayesh8115/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jayesh8115/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jayesh8115/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [1004-max-consecutive-ones-iii](https://github.com/jayesh8115/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jayesh8115/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jayesh8115/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jayesh8115/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Math
 |  |
 | ------- |
@@ -354,6 +356,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0930-binary-subarrays-with-sum](https://github.com/jayesh8115/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/jayesh8115/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jayesh8115/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jayesh8115/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Tree
 |  |
 | ------- |
