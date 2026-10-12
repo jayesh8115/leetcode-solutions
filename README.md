@@ -61,6 +61,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0977-squares-of-a-sorted-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jayesh8115/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/jayesh8115/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jayesh8115/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0904-fruit-into-baskets](https://github.com/jayesh8115/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/jayesh8115/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jayesh8115/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jayesh8115/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
@@ -100,6 +102,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0930-binary-subarrays-with-sum](https://github.com/jayesh8115/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jayesh8115/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/jayesh8115/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jayesh8115/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +120,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0509-fibonacci-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jayesh8115/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jayesh8115/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -340,6 +344,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0713-subarray-product-less-than-k](https://github.com/jayesh8115/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/jayesh8115/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/jayesh8115/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jayesh8115/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Tree
 |  |
 | ------- |
