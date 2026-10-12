@@ -30,6 +30,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0119-pascals-triangle-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jayesh8115/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/jayesh8115/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0012-integer-to-roman](https://github.com/jayesh8115/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jayesh8115/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/jayesh8115/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/jayesh8115/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 ## String
 |  |
 | ------- |
@@ -170,4 +172,8 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/jayesh8115/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
