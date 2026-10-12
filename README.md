@@ -63,6 +63,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [1004-max-consecutive-ones-iii](https://github.com/jayesh8115/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jayesh8115/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/jayesh8115/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jayesh8115/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -206,6 +207,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0875-koko-eating-bananas](https://github.com/jayesh8115/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/jayesh8115/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/jayesh8115/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jayesh8115/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -219,6 +221,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0059-spiral-matrix-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/jayesh8115/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0885-spiral-matrix-iii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jayesh8115/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Recursion
 |  |
 | ------- |
