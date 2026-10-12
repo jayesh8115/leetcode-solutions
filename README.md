@@ -16,6 +16,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jayesh8115/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/jayesh8115/leetcode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0047-permutations-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | ------- |
 | [0015-3sum](https://github.com/jayesh8115/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jayesh8115/leetcode-solutions/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0047-permutations-ii) |
 ## Stack
 |  |
 | ------- |
@@ -90,4 +92,5 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 |  |
 | ------- |
 | [0046-permutations](https://github.com/jayesh8115/leetcode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
