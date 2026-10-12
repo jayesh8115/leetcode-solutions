@@ -104,6 +104,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jayesh8115/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/jayesh8115/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jayesh8115/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String
 |  |
 | ------- |
@@ -122,6 +123,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/jayesh8115/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jayesh8115/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jayesh8115/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Sliding Window
 |  |
 | ------- |
