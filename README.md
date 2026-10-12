@@ -164,6 +164,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/jayesh8115/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/jayesh8115/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -443,4 +444,5 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/jayesh8115/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/jayesh8115/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
