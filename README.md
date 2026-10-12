@@ -141,6 +141,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [1248-count-number-of-nice-subarrays](https://github.com/jayesh8115/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/jayesh8115/leetcode-solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/jayesh8115/leetcode-solutions/tree/master/1759-count-number-of-homogenous-substrings) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -276,6 +277,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0059-spiral-matrix-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0885-spiral-matrix-iii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jayesh8115/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Quicksort
 |  |
 | ------- |
