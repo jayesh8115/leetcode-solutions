@@ -71,6 +71,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [2149-rearrange-array-elements-by-sign](https://github.com/jayesh8115/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/jayesh8115/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/jayesh8115/leetcode-solutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 ## Hash Table
 |  |
 | ------- |
@@ -187,6 +188,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/jayesh8115/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/jayesh8115/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/jayesh8115/leetcode-solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/jayesh8115/leetcode-solutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 ## Stack
 |  |
 | ------- |
