@@ -51,6 +51,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0048-rotate-image](https://github.com/jayesh8115/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/jayesh8115/leetcode-solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/jayesh8115/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/jayesh8115/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,6 +122,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jayesh8115/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/jayesh8115/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Simulation
 |  |
 | ------- |
@@ -134,4 +136,8 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/jayesh8115/leetcode-solutions/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jayesh8115/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
