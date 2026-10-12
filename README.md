@@ -55,6 +55,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0875-koko-eating-bananas](https://github.com/jayesh8115/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0885-spiral-matrix-iii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [0904-fruit-into-baskets](https://github.com/jayesh8115/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/jayesh8115/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +123,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0283-move-zeroes](https://github.com/jayesh8115/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jayesh8115/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0905-sort-array-by-parity](https://github.com/jayesh8115/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
@@ -137,6 +139,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0268-missing-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/jayesh8115/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jayesh8115/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/jayesh8115/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Stack
 |  |
 | ------- |
