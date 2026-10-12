@@ -102,6 +102,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jayesh8115/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/jayesh8115/leetcode-solutions/tree/master/1446-consecutive-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/jayesh8115/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/jayesh8115/leetcode-solutions/tree/master/1759-count-number-of-homogenous-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -134,6 +135,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [1137-n-th-tribonacci-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jayesh8115/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/jayesh8115/leetcode-solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/jayesh8115/leetcode-solutions/tree/master/1759-count-number-of-homogenous-substrings) |
 ## Two Pointers
 |  |
 | ------- |
