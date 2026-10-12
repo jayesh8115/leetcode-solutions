@@ -51,6 +51,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0628-maximum-product-of-three-numbers](https://github.com/jayesh8115/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/jayesh8115/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/jayesh8115/leetcode-solutions/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/jayesh8115/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jayesh8115/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/jayesh8115/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0713-subarray-product-less-than-k](https://github.com/jayesh8115/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Math
 |  |
 | ------- |
@@ -171,6 +173,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0493-reverse-pairs](https://github.com/jayesh8115/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/jayesh8115/leetcode-solutions/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/jayesh8115/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -304,6 +307,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/jayesh8115/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/jayesh8115/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Tree
 |  |
 | ------- |
