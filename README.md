@@ -49,6 +49,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0540-single-element-in-a-sorted-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jayesh8115/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jayesh8115/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/jayesh8115/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
