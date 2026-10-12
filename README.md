@@ -54,6 +54,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0713-subarray-product-less-than-k](https://github.com/jayesh8115/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/jayesh8115/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0885-spiral-matrix-iii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
+| [0904-fruit-into-baskets](https://github.com/jayesh8115/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0424-longest-repeating-character-replacement](https://github.com/jayesh8115/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/jayesh8115/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jayesh8115/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0904-fruit-into-baskets](https://github.com/jayesh8115/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -86,6 +88,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0003-longest-substring-without-repeating-characters](https://github.com/jayesh8115/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/jayesh8115/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/jayesh8115/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/jayesh8115/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 ## Math
 |  |
 | ------- |
