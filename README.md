@@ -40,6 +40,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0169-majority-element](https://github.com/jayesh8115/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0128-longest-consecutive-sequence](https://github.com/jayesh8115/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/jayesh8115/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -76,6 +78,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0069-sqrtx](https://github.com/jayesh8115/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jayesh8115/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +105,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0164-maximum-gap](https://github.com/jayesh8115/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/jayesh8115/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -137,6 +141,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayesh8115/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -202,6 +207,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/0268-missing-number) |
 ## Bucket Sort
 |  |
 | ------- |
