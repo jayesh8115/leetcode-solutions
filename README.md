@@ -57,6 +57,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0904-fruit-into-baskets](https://github.com/jayesh8115/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/jayesh8115/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/jayesh8115/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0560-subarray-sum-equals-k](https://github.com/jayesh8115/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jayesh8115/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/jayesh8115/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/jayesh8115/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## String
 |  |
 | ------- |
@@ -91,6 +93,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0424-longest-repeating-character-replacement](https://github.com/jayesh8115/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/jayesh8115/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/jayesh8115/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/jayesh8115/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Math
 |  |
 | ------- |
@@ -322,6 +325,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/jayesh8115/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/jayesh8115/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/jayesh8115/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Tree
 |  |
 | ------- |
