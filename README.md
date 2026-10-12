@@ -70,6 +70,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jayesh8115/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jayesh8115/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/jayesh8115/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +143,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/jayesh8115/leetcode-solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/jayesh8115/leetcode-solutions/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -278,6 +280,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0885-spiral-matrix-iii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jayesh8115/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -399,4 +402,12 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jayesh8115/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
