@@ -1,0 +1,22 @@
+class Solution {
+public:
+
+    int getDigitProduct(int num){
+        int product = 1;
+        while(num > 0){
+            product = product * (num%10);
+            num = num / 10;
+        }
+        return product;
+    }
+    int smallestNumber(int n, int t) {
+        
+        while (true){
+            if(getDigitProduct(n) % t == 0){
+                return n;
+            } 
+            n++;
+        }
+        
+    }
+};
