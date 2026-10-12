@@ -66,6 +66,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jayesh8115/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jayesh8115/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/jayesh8115/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,6 +171,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0922-sort-array-by-parity-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/jayesh8115/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 ## Stack
 |  |
 | ------- |
