@@ -44,6 +44,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0283-move-zeroes](https://github.com/jayesh8115/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/jayesh8115/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/jayesh8115/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
