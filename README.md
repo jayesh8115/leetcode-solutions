@@ -69,6 +69,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/jayesh8115/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jayesh8115/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jayesh8115/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/jayesh8115/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Hash Table
 |  |
 | ------- |
@@ -181,6 +182,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0977-squares-of-a-sorted-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/jayesh8115/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/jayesh8115/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Stack
 |  |
 | ------- |
