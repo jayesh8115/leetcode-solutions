@@ -116,6 +116,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0367-valid-perfect-square](https://github.com/jayesh8115/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jayesh8115/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1137-n-th-tribonacci-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -234,6 +235,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/jayesh8115/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -254,6 +256,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | ------- |
 | [0070-climbing-stairs](https://github.com/jayesh8115/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Bubble Sort
 |  |
 | ------- |
