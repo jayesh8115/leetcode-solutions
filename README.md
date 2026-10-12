@@ -165,6 +165,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [2221-find-triangular-sum-of-an-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/jayesh8115/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jayesh8115/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/jayesh8115/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -209,6 +210,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [2164-sort-even-and-odd-indices-independently](https://github.com/jayesh8115/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/jayesh8115/leetcode-solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/jayesh8115/leetcode-solutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
+| [3536-maximum-product-of-two-digits](https://github.com/jayesh8115/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Stack
 |  |
 | ------- |
