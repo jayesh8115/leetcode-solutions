@@ -186,6 +186,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/jayesh8115/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/jayesh8115/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/jayesh8115/leetcode-solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Stack
 |  |
 | ------- |
@@ -349,6 +350,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jayesh8115/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/jayesh8115/leetcode-solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Quickselect
 |  |
 | ------- |
