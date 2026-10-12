@@ -10,6 +10,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0015-3sum](https://github.com/jayesh8115/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jayesh8115/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/jayesh8115/leetcode-solutions/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0015-3sum](https://github.com/jayesh8115/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jayesh8115/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/jayesh8115/leetcode-solutions/tree/master/0027-remove-element) |
 ## Sorting
 |  |
 | ------- |
