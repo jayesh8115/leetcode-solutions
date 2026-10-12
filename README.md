@@ -100,6 +100,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0424-longest-repeating-character-replacement](https://github.com/jayesh8115/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jayesh8115/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/jayesh8115/leetcode-solutions/tree/master/1446-consecutive-characters) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/jayesh8115/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Sliding Window
 |  |
 | ------- |
@@ -176,6 +177,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jayesh8115/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/jayesh8115/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -256,6 +258,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0152-maximum-product-subarray](https://github.com/jayesh8115/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/jayesh8115/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Simulation
 |  |
 | ------- |
