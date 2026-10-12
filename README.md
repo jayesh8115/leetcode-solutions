@@ -29,6 +29,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0118-pascals-triangle](https://github.com/jayesh8115/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jayesh8115/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +141,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0118-pascals-triangle](https://github.com/jayesh8115/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jayesh8115/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -162,4 +164,8 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jayesh8115/leetcode-solutions/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
