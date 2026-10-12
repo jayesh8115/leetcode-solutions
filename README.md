@@ -60,6 +60,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0930-binary-subarrays-with-sum](https://github.com/jayesh8115/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jayesh8115/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1004-max-consecutive-ones-iii](https://github.com/jayesh8115/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0904-fruit-into-baskets](https://github.com/jayesh8115/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/jayesh8115/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jayesh8115/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1004-max-consecutive-ones-iii](https://github.com/jayesh8115/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
@@ -195,6 +197,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0704-binary-search](https://github.com/jayesh8115/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/jayesh8115/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/jayesh8115/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/jayesh8115/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -333,6 +336,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0560-subarray-sum-equals-k](https://github.com/jayesh8115/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/jayesh8115/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/jayesh8115/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/jayesh8115/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Tree
 |  |
 | ------- |
