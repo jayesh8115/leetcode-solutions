@@ -122,6 +122,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0628-maximum-product-of-three-numbers](https://github.com/jayesh8115/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jayesh8115/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/jayesh8115/leetcode-solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Two Pointers
 |  |
 | ------- |
