@@ -23,6 +23,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0056-merge-intervals](https://github.com/jayesh8115/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/jayesh8115/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/jayesh8115/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0027-remove-element](https://github.com/jayesh8115/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jayesh8115/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/jayesh8115/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/jayesh8115/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +72,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0018-4sum](https://github.com/jayesh8115/leetcode-solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/jayesh8115/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/jayesh8115/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Stack
 |  |
 | ------- |
@@ -135,6 +138,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/jayesh8115/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/jayesh8115/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Newton's Method
 |  |
 | ------- |
@@ -143,4 +147,8 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jayesh8115/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jayesh8115/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
