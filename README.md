@@ -57,6 +57,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0229-majority-element-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/jayesh8115/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/jayesh8115/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
@@ -66,10 +67,12 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0020-valid-parentheses](https://github.com/jayesh8115/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jayesh8115/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/jayesh8115/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/jayesh8115/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jayesh8115/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/jayesh8115/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
 |  |
 | ------- |
