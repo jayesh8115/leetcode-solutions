@@ -31,6 +31,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jayesh8115/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/jayesh8115/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,4 +177,8 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jayesh8115/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
