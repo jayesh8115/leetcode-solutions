@@ -20,4 +20,8 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jayesh8115/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/jayesh8115/leetcode-solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
