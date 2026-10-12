@@ -52,6 +52,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0674-longest-continuous-increasing-subsequence](https://github.com/jayesh8115/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/jayesh8115/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/jayesh8115/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/jayesh8115/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,6 +175,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0540-single-element-in-a-sorted-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/jayesh8115/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/jayesh8115/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/jayesh8115/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Backtracking
 |  |
 | ------- |
