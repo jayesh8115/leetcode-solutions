@@ -72,6 +72,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [2164-sort-even-and-odd-indices-independently](https://github.com/jayesh8115/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/jayesh8115/leetcode-solutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
+| [2404-most-frequent-even-element](https://github.com/jayesh8115/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [1248-count-number-of-nice-subarrays](https://github.com/jayesh8115/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jayesh8115/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jayesh8115/leetcode-solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2404-most-frequent-even-element](https://github.com/jayesh8115/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 ## String
 |  |
 | ------- |
@@ -340,6 +342,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0229-majority-element-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/jayesh8115/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jayesh8115/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [2404-most-frequent-even-element](https://github.com/jayesh8115/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
