@@ -97,6 +97,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0125-valid-palindrome](https://github.com/jayesh8115/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/jayesh8115/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jayesh8115/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1446-consecutive-characters](https://github.com/jayesh8115/leetcode-solutions/tree/master/1446-consecutive-characters) |
 ## Sliding Window
 |  |
 | ------- |
