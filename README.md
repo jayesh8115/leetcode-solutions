@@ -7,6 +7,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jayesh8115/leetcode-solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/jayesh8115/leetcode-solutions/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,12 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0009-palindrome-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/jayesh8115/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jayesh8115/leetcode-solutions/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/jayesh8115/leetcode-solutions/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/jayesh8115/leetcode-solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
