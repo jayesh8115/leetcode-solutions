@@ -12,6 +12,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jayesh8115/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/jayesh8115/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +77,8 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jayesh8115/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
