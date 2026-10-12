@@ -14,6 +14,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0031-next-permutation](https://github.com/jayesh8115/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/jayesh8115/leetcode-solutions/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,4 +84,5 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/jayesh8115/leetcode-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
