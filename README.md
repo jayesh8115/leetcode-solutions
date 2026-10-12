@@ -105,6 +105,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/jayesh8115/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/jayesh8115/leetcode-solutions/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jayesh8115/leetcode-solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/jayesh8115/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Sliding Window
 |  |
 | ------- |
