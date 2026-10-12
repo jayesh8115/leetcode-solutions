@@ -64,6 +64,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0347-top-k-frequent-elements](https://github.com/jayesh8115/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/jayesh8115/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/jayesh8115/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/jayesh8115/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String
 |  |
 | ------- |
@@ -111,6 +112,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0189-rotate-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/jayesh8115/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/jayesh8115/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Sorting
 |  |
 | ------- |
@@ -299,4 +301,24 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/jayesh8115/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+## Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/jayesh8115/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/jayesh8115/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/jayesh8115/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/jayesh8115/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/jayesh8115/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
