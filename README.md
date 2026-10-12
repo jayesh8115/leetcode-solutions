@@ -124,6 +124,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jayesh8115/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jayesh8115/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/jayesh8115/leetcode-solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Sliding Window
 |  |
 | ------- |
@@ -305,6 +306,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [2149-rearrange-array-elements-by-sign](https://github.com/jayesh8115/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/jayesh8115/leetcode-solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Quicksort
 |  |
 | ------- |
