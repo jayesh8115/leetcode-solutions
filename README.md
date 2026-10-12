@@ -41,6 +41,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0189-rotate-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/jayesh8115/leetcode-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/jayesh8115/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0125-valid-palindrome](https://github.com/jayesh8115/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayesh8115/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/jayesh8115/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
