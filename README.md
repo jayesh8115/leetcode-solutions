@@ -22,6 +22,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0054-spiral-matrix](https://github.com/jayesh8115/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/jayesh8115/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/jayesh8115/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/jayesh8115/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/jayesh8115/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jayesh8115/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -153,6 +154,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [0013-roman-to-integer](https://github.com/jayesh8115/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/jayesh8115/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/jayesh8115/leetcode-solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/jayesh8115/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/jayesh8115/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jayesh8115/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/0189-rotate-array) |
