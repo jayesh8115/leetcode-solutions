@@ -72,6 +72,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [2149-rearrange-array-elements-by-sign](https://github.com/jayesh8115/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/jayesh8115/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/jayesh8115/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/jayesh8115/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/jayesh8115/leetcode-solutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2404-most-frequent-even-element](https://github.com/jayesh8115/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jayesh8115/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -260,6 +261,7 @@ My LeetCode solutions in C++, organized by problem and difficulty.
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/jayesh8115/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jayesh8115/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/jayesh8115/leetcode-solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/jayesh8115/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jayesh8115/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2594-minimum-time-to-repair-cars](https://github.com/jayesh8115/leetcode-solutions/tree/master/2594-minimum-time-to-repair-cars) |
 ## Backtracking
